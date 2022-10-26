@@ -28,8 +28,8 @@ Aplicação de controle de tarefas no estilo to-do list.
 ## Prints da aplicação:
 
 <div>
-    <img src="./assets/image1.png" width="99%" alt="">
-    <img src="./assets/image2.png" width="99%" alt="">
+    <img src="./assets/image1.png" width="48%" alt="">
+    <img src="./assets/image2.png" width="48%" alt="">
 </div>
  
 ### Como rodar o projeto.
